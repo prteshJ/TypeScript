@@ -36,7 +36,7 @@ class HighSchool {
         this.school = school;
         this.location = location;
         this.graduated = graduated;
-        this.timePeriod = this.timePeriod
+        this.timePeriod = timePeriod
         this.description = description;
     }
 
